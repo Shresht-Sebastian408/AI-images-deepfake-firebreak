@@ -1,0 +1,15 @@
+# Executables and builds
+*.exe
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
